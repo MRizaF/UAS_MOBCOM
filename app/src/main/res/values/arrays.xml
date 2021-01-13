@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="spinner_link">
+        <item>http://</item>
+        <item>https://</item>
+    </array>
+</resources>

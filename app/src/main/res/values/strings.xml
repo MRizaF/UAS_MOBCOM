@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UAS-MOBCOM</string>
+
+    <string name="text1">Enter URL:</string>
+    <string name="text_input">www.example.com</string>
+    <string name="text_button">Get Page Source</string>
+    <string name="text2">Page source will appear here</string>
+</resources>
